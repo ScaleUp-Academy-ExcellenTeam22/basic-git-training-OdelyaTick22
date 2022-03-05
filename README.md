@@ -1,5 +1,1 @@
-"# basic-git-training-OdelyaTick22" 
-"# basic-git-training-OdelyaTick22" 
-"# basic-git-training-OdelyaTick22" 
-"# basic-git-training-OdelyaTick22" 
-"# basic-git-training-OdelyaTick22" 
+"# basic-git-training-OdelyaTick22"
